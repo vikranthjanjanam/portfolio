@@ -10,12 +10,12 @@
 - SDLC: Agile, Scrum, Product and Project Management, Process Innovation, ERP.
 
 ## Education
-- M.S., Computer and Information Sciences   |   Georgia State University at Atlanta (_August 2022_)	 			        		
-- B.Tech., Information Technoligy   |   Acharya Nagarjuna University at Guntur (_May 2018_)
+- M.S., Computer & Information Sciences | Georgia State University at Atlanta (_August 2022_)	 			        		
+- B.Tech., Information Technoligy | Acharya Nagarjuna University at Guntur (_May 2018_)
 
 ## Work Experience
 
-**Data Engineer III @ Walamrt (_August 2022 - Present_)**
+**Data Engineer III @ Walmart (_August 2022 - Present_)**
 
 - Led cross-functional teams revamping retail and financial performance reporting processes for stores and e-commerce sales channels in Merchandise on Google Cloud Platform.
 - Supervised the project planning roadmap for a team of 7 in scrum management through Jira and Confluence, organized sprint retrospectives, and mentored junior subordinates.
