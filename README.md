@@ -1,9 +1,7 @@
 # Data Engineer
 
 - vikranthjanjanam@gmail.com
-
 - +1 (404) 643-1187
-
 - [LinkedIn](https://www.linkedin.com/in/vikranthj)
 
 
