@@ -1,3 +1,4 @@
-# add the following to _config.yml file
-title: YOUR NAME
-theme: jeykll-theme-minimal
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+theme: jekyll-theme-minimal
