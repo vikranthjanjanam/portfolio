@@ -17,11 +17,26 @@
 
 **Data Engineer III @ Walamrt (_August 2022 - Present_)**
 
+- Led cross-functional teams revamping retail and financial performance reporting processes for stores and e-commerce sales channels in Merchandise on Google Cloud Platform.
+- Supervised the project planning roadmap for a team of 7 in scrum management through Jira and Confluence, organized sprint retrospectives, and mentored junior subordinates.
+
 **Data Scientist II @ LexisNexis Risk Solutions (_January - May 2022_)**
+
+- Coordinated with the batch processing team to maintain PII data enhancement and risk assessment solutions for millions of records daily under client operations management.
+- Regulated excellent customer relations, resolved AD-HOC queries, performed RCA for Spark Cluster Memory Management, and improved SLA timelines by 37%.
+- Developed process flow and orchestrated pipelines for insurance verification and claims validations in Linux Systems, accelerating data load by 30% efficient memory utilization.
 
 **Systems Engineer @ TCS (_July 2018 - July 2021_)**
 
+- Led a team of 4 in migrating ETL solutions and data warehouses among multiple datahubs into Delta Lake and enabled the hyper-accelerated configuration of cloud resources.
+- CPG Unit Winner of TCS INNOVISTA 2021, honored with Innovation Pride award for a patent on e-Harmonizer cloud solution redefining the consumer personalization and e-commerce experience in Retail.
+
+
 **Software Intern @ Magnum Wings LLC (_August 2017 - June 2018_)**
+
+- Created a streaming application in Java and Python for Live Transmission of video from drones to the control center with auto-resolution functionality based on ping response.
+- Facilitated application development to control drones through serial data streams from sensors connected to microcontrollers using terminal OS commands.
+- Coordinated with a team of ten employees from diverse Electronics, Aerodynamics, and Architecture Modeling departments in developing a software module for Surveillance Drones.
 
 ## Projects
 
